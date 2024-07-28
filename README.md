@@ -1,4 +1,4 @@
-# AI Project (Part 4)
+# AI Project (SVM)
 
 ## Overview
 
